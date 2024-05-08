@@ -6,10 +6,9 @@ POST. Users will be able to query data stored in the BRICs repository from diffe
 JavaScript, R and other tools that use Restful APIs. <br>
 <br>
 
-## This repository includes a variety of example code detailing how the user may call the BRICs Query Tool API to explore/visualize the data stored in the BRICs repository
-
-### For more information on Query-Tool API endpoints for a specific BRICS instance please see: Note the format between instances should be identical
-
+**This repository includes a variety of example code detailing how the user may call the BRICs Query Tool API to explore/visualize the data stored in the BRICs repository**
+<br>
+**For more information on Query-Tool API endpoints for a specific BRICS instance please see:** <br>
 [FITBIR: https://fitbir.nih.gov/gateway/query-api/swagger-ui/index.html](https://fitbir.nih.gov/gateway/query-api/swagger-ui/index.html) <br>
 <br>
 [PDBP: https://pdbp.ninds.nih.gov/gateway/query-api/swagger-ui/index.html](https://pdbp.ninds.nih.gov/gateway/query-api/swagger-ui/index.html) <br>
@@ -18,6 +17,8 @@ JavaScript, R and other tools that use Restful APIs. <br>
 <br>
 [NEI: https://brics.nei.nih.gov/gateway/query-api/swagger-ui/index.html](https://brics.nei.nih.gov/gateway/query-api/swagger-ui/index.html) <br>
 <br> 
+Note the format between instances should be identical <br>
+
 Questions/Comments/Suggestions  <br>
 Contact: maria.bagonis@nih.gov (DATA Scholar) <br>
 Share your voice and be part of the community!  
